@@ -1,0 +1,32 @@
+C:\Users\User\Documents\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\User\Documents\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\User\Documents\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\User\Documents\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\Projects\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\User\Documents\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\User\Documents\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\User\Documents\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\User\Documents\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\User\Documents\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\User\Documents\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\User\Documents\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Михаил\Тестировщик ПО\Домашние задания\C#\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Михаил\Тестировщик ПО\Домашние задания\C#\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Михаил\Тестировщик ПО\Домашние задания\C#\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Михаил\Тестировщик ПО\Домашние задания\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Михаил\Тестировщик ПО\Домашние задания\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\Михаил\Тестировщик ПО\Домашние задания\C#\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Михаил\Тестировщик ПО\Домашние задания\C#\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Михаил\Тестировщик ПО\Домашние задания\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Михаил\Тестировщик ПО\Домашние задания\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Михаил\Тестировщик ПО\Домашние задания\C#\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Михаил\Тестировщик ПО\Домашние задания\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Михаил\Тестировщик ПО\Домашние задания\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Михаил\Тестировщик ПО\Домашние задания\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Михаил\Тестировщик ПО\Домашние задания\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Михаил\Тестировщик ПО\Домашние задания\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Михаил\Тестировщик ПО\Домашние задания\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
