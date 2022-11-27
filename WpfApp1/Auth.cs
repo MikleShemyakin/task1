@@ -53,7 +53,9 @@ namespace WpfApp1
                 for (int i=1;i<password.Length; i++)
                 { 
                     if (password[i] == password[i-1])
-                    { return "В пароле не должно быть подряд идущих повторяющихся символов!"; }
+                    {
+                        IsPovt = true;
+                        return "В пароле не должно быть подряд идущих повторяющихся символов!"; }
                 }
                 //Проверяем переменную если истина то цифры есть
                 if (!IsDigit)
